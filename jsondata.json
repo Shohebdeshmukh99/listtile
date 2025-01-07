@@ -23,5 +23,80 @@
     "name": "Arjun Reddy",
     "designation": "DevOps Engineer",
     "image": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "name": "Ravi Singh",
+    "designation": "Project Manager",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "name": "Neha Gupta",
+    "designation": "HR Specialist",
+    "image": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "name": "Varun Mehta",
+    "designation": "Marketing Head",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "name": "Tanuja Rao",
+    "designation": "Finance Manager",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "name": "Vikram Soni",
+    "designation": "Business Analyst",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "name": "Shweta Yadav",
+    "designation": "Content Writer",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "name": "Deepak Singh",
+    "designation": "Test Engineer",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Madhavi Desai",
+    "designation": "Sales Director",
+    "image": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "name": "Vishal Patil",
+    "designation": "Database Administrator",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "name": "Kiran Bhat",
+    "designation": "Product Designer",
+    "image": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "name": "Gaurav Chawla",
+    "designation": "Lead Developer",
+    "image": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "name": "Sanya Sharma",
+    "designation": "QA Engineer",
+    "image": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "name": "Rohit Gupta",
+    "designation": "IT Support Specialist",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "name": "Nisha Soni",
+    "designation": "Marketing Executive",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "name": "Kunal Kapoor",
+    "designation": "Network Engineer",
+    "image": "https://randomuser.me/api/portraits/men/20.jpg"
   }
 ]
